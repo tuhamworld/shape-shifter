@@ -3,15 +3,6 @@ let btn = document.querySelector('.btn');
 let start = 0;
 
 let myImages = [
-    // '../images/beautiful_scene.jpg',
-    // '../images/caligraphy.jpg',
-    // '../images/eid_mubarak.jpg',
-    // '../images/lady_supplicating.jpg',
-    // '../images/mosque.jpg',
-    // '../images/quran.jpg',
-    // '../images/ramadan_mubarak.jpg',
-    // '../images/symbol.jpg'
-
 ];
 
 myImages.push('../images/beautiful_scene.jpg')

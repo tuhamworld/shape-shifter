@@ -15,14 +15,14 @@ body {
 h2 {
     text-align: center;
     background-color: lightblue;
-    margin: 4rem;
+    margin: 1rem;
     padding: 1rem 0rem;
 
 }
 
 p {
     text-align: center;
-    margin: 4rem;
+    margin: 1rem;
     background-color: #ce3232;
     color: #fff;
     padding: 2rem;
@@ -36,5 +36,7 @@ p {
     cursor: pointer;
     color: #fff;
     font-size: 1rem;
+    display: block;
+    margin-top: 0.5rem;
 
 }
